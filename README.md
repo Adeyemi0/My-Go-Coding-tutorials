@@ -6,3 +6,4 @@
 ## Question 5: Write a program that generates 50 random numbers such that the first number is between 1 and 2, the second is between 1 and 3, the third is between 1 and 4, . . . , and the last is between 1 and 51.
 ## Question 6: Write a program that asks the user to enter a length in centimeters. If the user enters a negative length, the program should tell the user that the entry is invalid. Otherwise, the program should convert the length to inches and print out the result. There are 2.54 centimeters in an inch.
 ## Question 7: Write a program that asks the user how many credits they have taken. If they have taken 23 or less, print that the student is a freshman. If they have taken between 24 and 53, print that they are a sophomore. The range for juniors is 54 to 83, and for seniors it is 84 and over.
+## Question 8: Generate a random number between 1 and 10. Ask the user to guess the number and print a message based on whether they get it right or not.
