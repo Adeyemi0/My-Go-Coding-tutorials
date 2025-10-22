@@ -20,6 +20,7 @@ Write a multiplication game program for kids. The program should give the player
 ## Question 11
 
 Write a program that asks the user to enter a list of integers. Do the following:
+
 **(a)** Print the total number of items in the list.  
 **(b)** Print the last item in the list.  
 **(c)** Print the list in reverse order.  
