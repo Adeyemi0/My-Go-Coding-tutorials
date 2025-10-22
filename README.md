@@ -29,7 +29,9 @@ Write a program that asks the user to enter a list of integers. Do the following
 **(f)** Remove the first and last items from the list, sort the remaining items, and print the result.
 
 ## Question 12
+
 Start with the list [8,9,10]. Do the following:
+
 **(a)** Set the second entry (index 1) to 17
 **(b)** Add 4, 5, and 6 to the end of the list
 **(c)** Remove the first entry from the list
