@@ -11,10 +11,9 @@
 ### Question 11
 
 Write a program that asks the user to enter a list of integers. Do the following:
-
-1. **(a)** Print the total number of items in the list.  
-2. **(b)** Print the last item in the list.  
-3. **(c)** Print the list in reverse order.  
-4. **(d)** Print **Yes** if the list contains a `5` and **No** otherwise.  
-5. **(e)** Print the number of fives in the list.  
-6. **(f)** Remove the first and last items from the list, sort the remaining items, and print the result.
+**(a)** Print the total number of items in the list.  
+**(b)** Print the last item in the list.  
+**(c)** Print the list in reverse order.  
+**(d)** Print **Yes** if the list contains a `5` and **No** otherwise.  
+**(e)** Print the number of fives in the list.  
+**(f)** Remove the first and last items from the list, sort the remaining items, and print the result.
