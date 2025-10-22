@@ -8,3 +8,13 @@
 ## Question 7: Write a program that asks the user how many credits they have taken. If they have taken 23 or less, print that the student is a freshman. If they have taken between 24 and 53, print that they are a sophomore. The range for juniors is 54 to 83, and for seniors it is 84 and over.
 ## Question 8: Generate a random number between 1 and 10. Ask the user to guess the number and print a message based on whether they get it right or not.
 ## Question 9: Write a multiplication game program for kids. The program should give the player ten randomly generated multiplication questions to do. After each, the program should tell them whether they got it right or wrong and what the correct answer is.
+### Question 11
+
+Write a program that asks the user to enter a list of integers. Do the following:
+
+1. **(a)** Print the total number of items in the list.  
+2. **(b)** Print the last item in the list.  
+3. **(c)** Print the list in reverse order.  
+4. **(d)** Print **Yes** if the list contains a `5` and **No** otherwise.  
+5. **(e)** Print the number of fives in the list.  
+6. **(f)** Remove the first and last items from the list, sort the remaining items, and print the result.
